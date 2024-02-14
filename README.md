@@ -3,12 +3,10 @@ I am an aspiring test engineer. I am open to job offers and I want to apply my k
 
 #opentowork #QA #QC #Python
 
-My contacts:
-
-My resume:
+My contacts:  
+elv3177@gmail.com - write to me by Email.
+@Elvira_Khozha - my telegram.
 
 My certificates:
-
-My courses:
-
-My project:
+Yandex.Practicum: Test Engineer
+Yandex.Practicum: letter of thanks for participation
