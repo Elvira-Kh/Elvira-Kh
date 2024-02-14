@@ -7,6 +7,4 @@ My contacts:
 elv3177@gmail.com - write to me by Email.
 @Elvira_Khozha - my telegram.
 
-My certificates:
-Yandex.Practicum: Test Engineer
-Yandex.Practicum: letter of thanks for participation
+
